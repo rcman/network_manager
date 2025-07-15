@@ -2,6 +2,14 @@
 
 <BR>
 <BR>
+This Network Manager is a work in progress. Feel free to do as you wish. If you have suggestions please let me know.
+
+<BR>
+Thanks
+
+<BR>
+<BR>
+
 # 🏢 Enterprise Network PC Management System v2.0
 
 # Complete Feature List
