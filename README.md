@@ -2,11 +2,12 @@
 
 <BR>
 <BR>
-🏢 Enterprise Network PC Management System v2.0
-Complete Feature List
+# 🏢 Enterprise Network PC Management System v2.0
+
+# Complete Feature List
 
 🔍 Network Discovery & Device Management
-Network Scanning
+# Network Scanning
 
 Automatic Network Discovery: Scan configurable IP ranges (CIDR notation)
 Quick Scan: Fast ping-based scan of known devices
@@ -16,7 +17,7 @@ Hostname Resolution: Automatic DNS lookup for device names
 Device Fingerprinting: Hardware and service identification
 Incremental Discovery: Smart scanning that focuses on new/changed devices
 
-Device Management
+# Device Management
 
 Device Inventory: Comprehensive database of all discovered devices
 Bulk Device Setup: Configure multiple devices simultaneously
@@ -27,7 +28,7 @@ Device Status Tracking: Real-time online/offline status monitoring
 
 
 📊 Advanced Monitoring & Alerting
-System Metrics Monitoring
+# System Metrics Monitoring
 
 CPU Monitoring: Per-core usage, load averages (1, 5, 15 min)
 Memory Monitoring: RAM usage, available memory, swap usage
@@ -37,7 +38,7 @@ Process Monitoring: Active process count, top CPU consumers
 Service Health: Monitor critical system services
 Hardware Health: Temperature and system health indicators
 
-Intelligent Alerting System
+# Intelligent Alerting System
 
 Configurable Thresholds: Custom warning and critical levels per metric
 Multi-level Alerts: Warning, Critical, and Anomaly classifications
@@ -47,7 +48,7 @@ Notification Channels: Email, SMS, webhook integrations
 Alert History: Complete audit trail of all alerts
 Bulk Alert Management: Acknowledge or resolve multiple alerts
 
-Anomaly Detection
+# Anomaly Detection
 
 Machine Learning: Statistical analysis with Z-score calculations
 Baseline Learning: Automatic establishment of normal behavior patterns
