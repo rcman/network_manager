@@ -27,7 +27,7 @@ Auto-Discovery Scheduling: Automated periodic network scans
 Device Status Tracking: Real-time online/offline status monitoring
 
 
-📊 Advanced Monitoring & Alerting
+# 📊 Advanced Monitoring & Alerting
 # System Metrics Monitoring
 
 CPU Monitoring: Per-core usage, load averages (1, 5, 15 min)
@@ -57,8 +57,8 @@ Adaptive Thresholds: Self-adjusting alert levels based on historical data
 Trend Analysis: Identify gradual performance degradation
 
 
-🔒 Security Monitoring
-Authentication Security
+# 🔒 Security Monitoring
+# Authentication Security
 
 Failed Login Detection: Monitor authentication logs for suspicious activity
 Multi-device Login Tracking: Detect unusual login patterns across network
@@ -66,7 +66,7 @@ Brute Force Detection: Identify repeated failed login attempts
 Source IP Tracking: Monitor login attempts by source location
 User Activity Monitoring: Track privileged user activities
 
-Security Events
+# Security Events
 
 Real-time Log Analysis: Parse system logs for security events
 Threat Intelligence: Integration with security feeds (extensible)
@@ -75,8 +75,8 @@ Compliance Reporting: Generate security compliance reports
 Audit Trails: Complete logging of all security-related activities
 
 
-🎨 Modern User Interface
-Visual Design
+# 🎨 Modern User Interface
+# Visual Design
 
 Light/Dark Themes: Toggle between professional themes
 Responsive Layout: Adaptive interface that scales with window size
@@ -85,7 +85,7 @@ Status Indicators: Color-coded health and status visualizations
 Progress Feedback: Real-time progress bars and loading indicators
 Animated Elements: Smooth transitions and visual feedback
 
-Navigation & Interaction
+# Navigation & Interaction
 
 Tabbed Interface: Organized workspace with multiple monitoring views
 Context Menus: Right-click menus for quick device actions
@@ -94,7 +94,7 @@ Search & Filter: Advanced filtering by device properties
 Sorting: Multi-column sorting with persistence
 Drag & Drop: Modern interaction patterns
 
-Dashboard Components
+# Dashboard Components
 
 Live Monitoring Charts: Real-time animated performance graphs
 Circular Gauges: Modern gauge displays for key metrics
@@ -103,8 +103,8 @@ Alert Dashboard: Centralized alert management interface
 Network Topology: Visual network layout and relationships
 
 
-⚡ Performance & Scalability
-Optimization Features
+# ⚡ Performance & Scalability
+# Optimization Features
 
 Connection Pooling: Efficient SSH and database connection management
 Caching Layer: Query result caching with TTL for faster responses
@@ -113,7 +113,7 @@ Asynchronous Operations: Non-blocking operations with threading
 Memory Management: Circular buffers with automatic size management
 Database Optimization: Indexed queries, WAL mode, automatic cleanup
 
-Scalability
+# Scalability
 
 Multi-threading: Parallel processing for monitoring and scanning
 Load Balancing: Distribute monitoring tasks across worker threads
@@ -122,8 +122,8 @@ Auto-scaling: Dynamic resource allocation based on device count
 Performance Monitoring: Monitor application performance itself
 
 
-📈 Analytics & Reporting
-Performance Analytics
+# 📈 Analytics & Reporting
+# Performance Analytics
 
 Historical Trends: Long-term performance trend analysis
 Capacity Planning: Predictive analytics for resource planning
@@ -132,7 +132,7 @@ Custom Time Ranges: Flexible time period selection for analysis
 Statistical Reports: Mean, median, percentile calculations
 Export Capabilities: Generate reports in multiple formats
 
-Reporting Engine
+# Reporting Engine
 
 HTML Reports: Professional styled web reports
 PDF Generation: Formatted PDF reports (extensible)
@@ -142,8 +142,8 @@ Scheduled Reports: Automated report generation (extensible)
 Custom Templates: Configurable report layouts
 
 
-🛠 Configuration & Administration
-Application Settings
+# 🛠 Configuration & Administration
+# Application Settings
 
 Monitoring Intervals: Configurable data collection frequencies
 Data Retention: Automatic cleanup of historical data
@@ -152,7 +152,7 @@ Authentication Settings: SSH key management and credentials
 Network Configuration: Default scan ranges and parameters
 Theme Preferences: UI customization options
 
-Database Management
+# Database Management
 
 SQLite Backend: Embedded database with no external dependencies
 Automatic Backups: Scheduled database backup procedures
@@ -161,8 +161,8 @@ Performance Tuning: Database optimization and indexing
 Migration Support: Schema updates and data migration
 
 
-🔧 Advanced Features
-Custom Scripts & Automation
+# 🔧 Advanced Features
+# Custom Scripts & Automation
 
 Script Deployment: Deploy custom monitoring scripts to devices
 Automation Engine: Automated responses to alerts and events
@@ -170,7 +170,7 @@ Workflow Management: Custom workflow definitions
 API Integration: REST endpoints for external integrations
 Plugin Architecture: Extensible plugin system (framework ready)
 
-Integration Capabilities
+# Integration Capabilities
 
 SSH Key Management: Automated key deployment and rotation
 LDAP/AD Integration: Enterprise directory service support (extensible)
@@ -179,8 +179,8 @@ Webhook Integration: External system notifications
 API Endpoints: RESTful API for third-party integrations
 
 
-🚨 Monitoring Dashboards
-Live Monitoring Tab
+# 🚨 Monitoring Dashboards
+# Live Monitoring Tab
 
 Real-time CPU, memory, and network charts
 Circular gauge displays for current metrics
@@ -188,7 +188,7 @@ Summary metric cards with trend indicators
 Animated updates every 2 seconds
 Device selection with instant chart updates
 
-Performance Analytics Tab
+# Performance Analytics Tab
 
 Historical performance charts
 Configurable time ranges (15min to 7 days)
@@ -196,7 +196,7 @@ Trend analysis and forecasting
 Comparative device performance
 Export capabilities for external analysis
 
-Alerts Dashboard Tab
+# Alerts Dashboard Tab
 
 Active alert management interface
 Alert filtering by severity and type
@@ -204,7 +204,7 @@ Bulk acknowledgment capabilities
 Alert history and audit trails
 Real-time alert notifications
 
-Security Monitoring Tab
+# Security Monitoring Tab
 
 Failed login attempt tracking
 Security event timeline
@@ -212,7 +212,7 @@ Risk assessment indicators
 Compliance status monitoring
 Incident response tracking
 
-System Logs Tab
+# System Logs Tab
 
 Enhanced log display with syntax highlighting
 Log level filtering (ERROR, WARNING, INFO, DEBUG)
@@ -220,7 +220,7 @@ Search and filter capabilities
 Export logs to file
 Real-time log streaming
 
-Network Topology Tab
+# Network Topology Tab
 
 Visual network layout
 Device relationship mapping
@@ -229,8 +229,8 @@ Layout customization options
 Export topology diagrams
 
 
-🔐 Security Features
-Account Management
+# 🔐 Security Features
+# Account Management
 
 Automated Account Creation: Create monitoring accounts with root privileges
 SSH Key Management: Automated key deployment and management
@@ -238,7 +238,7 @@ Credential Security: Encrypted credential storage
 Role-based Access: Different access levels for users
 Audit Logging: Complete audit trail of all administrative actions
 
-Secure Communications
+# Secure Communications
 
 SSH-based Monitoring: Secure connections to all monitored devices
 Certificate Management: SSL/TLS certificate handling
@@ -247,8 +247,8 @@ Authentication Logging: Track all authentication attempts
 Session Management: Secure session handling and timeout
 
 
-📋 System Requirements & Dependencies
-Required Python Modules
+# 📋 System Requirements & Dependencies
+# Required Python Modules
 
 paramiko: SSH connectivity and remote command execution
 matplotlib: Real-time charts and data visualization
@@ -257,7 +257,7 @@ psutil: System metrics collection
 tkinter: GUI framework (usually included with Python)
 sqlite3: Database operations (included with Python)
 
-System Compatibility
+# System Compatibility
 
 Cross-platform: Windows, Linux, macOS support
 Python 3.7+: Modern Python version requirement
@@ -266,22 +266,22 @@ SSH Access: SSH server on monitored devices
 Administrative Privileges: Root/sudo access for monitoring account creation
 
 
-🎯 Enterprise-Grade Capabilities
-Scalability
+# 🎯 Enterprise-Grade Capabilities
+# Scalability
 
 Monitor 100+ devices simultaneously
 Handle thousands of metrics per minute
 Automatic load balancing and resource optimization
 Horizontal scaling capabilities (framework ready)
 
-Reliability
+# Reliability
 
 Automatic error recovery and retry mechanisms
 Connection pooling for stable communications
 Database integrity and backup procedures
 Graceful degradation during partial failures
 
-Professional Features
+# Professional Features
 
 Enterprise-grade logging and audit trails
 Comprehensive configuration management
