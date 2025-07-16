@@ -2796,7 +2796,7 @@ class EnhancedPCManagementApp:
         Made by RCMAN
         Find it here.
         
-        https://github.com/network_manager/
+        https://github.com/rcman/network_manager/
         
         Please let me know if you find any issues.
         
