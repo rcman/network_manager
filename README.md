@@ -1,10 +1,4 @@
 # Newtwork Manager 4
-
-<BR>
-<BR>
-
-Major Fixes and Improvements:
-
 <BR>
 
 # 1. Code Structure & Organization
