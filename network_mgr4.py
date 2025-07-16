@@ -2793,6 +2793,13 @@ class EnhancedPCManagementApp:
         • Modern responsive user interface
         • Enterprise-grade scalability
         
+        Made by RCMAN
+        Find it here.
+        
+        https://github.com/network_manager/
+        
+        Please let me know if you find any issues.
+        
         Built with Python, tkinter, and matplotlib
         """
         
