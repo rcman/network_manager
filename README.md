@@ -3,7 +3,7 @@
 <BR>
 <BR>
 
-# Major Fixes and Improvements:
+Major Fixes and Improvements:
 
 <BR>
 
