@@ -60,10 +60,15 @@ bashpip install paramiko matplotlib numpy psutil<BR>
 Usage:<BR>
 
 Run the application: python network_mgr4.py<BR>
+
 Use "Quick Scan" to discover devices on your network<BR>
+
 Select devices and use "Setup Device" to enable monitoring<BR>
+
 View real-time metrics in the monitoring dashboard<BR>
+
 Configure alerts and thresholds as needed<BR>
+
 Export reports and manage devices through the GUI<BR>
 
 
