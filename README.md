@@ -2,9 +2,11 @@
 
 <BR>
 <BR>
+
 # Major Fixes and Improvements:
+
 <BR>
-#
+
 # 1. Code Structure & Organization
 
 <BR>
