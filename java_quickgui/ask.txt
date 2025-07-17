@@ -1,1 +1,1 @@
-Make me a Java gui application to monitor cpu and disk space of all machines on my network. I want it each machine displayed to have it own dashboard entry. I want the app to monitor any new machines that come on the network
+ask
