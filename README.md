@@ -59,7 +59,7 @@ pip install paramiko matplotlib numpy psutil<BR>
 
 Usage:<BR>
 
-Run the application: python network_mgr4.py<BR>
+Run the application: python ==network_mgr4.py==<BR>
 
 Use "Quick Scan" to discover devices on your network<BR>
 
