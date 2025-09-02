@@ -55,7 +55,7 @@ Configuration Management: Persistent settings with INI files
 # Installation Requirements:
 <BR>
 
-bashpip install paramiko matplotlib numpy psutil<BR>
+pip install paramiko matplotlib numpy psutil<BR>
 
 Usage:<BR>
 
