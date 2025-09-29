@@ -1,3 +1,12 @@
+# Updated Sept 29th 
+
+<BR>
+Updated App: NetworkMonitorApp.java, NetworkDevice.java, DatabaseManager.java
+
+<BR><BR>
+
+
+
 # Newtwork Manager 4
 <BR>
 
