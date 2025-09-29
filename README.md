@@ -5,6 +5,10 @@ Updated App: NetworkMonitorApp.java, NetworkDevice.java, DatabaseManager.java
 
 <BR><BR>
 
+Also updated NetAdminSuite.py with a lot more advancement.
+
+<BR><BR>
+
 
 
 # Newtwork Manager 4
